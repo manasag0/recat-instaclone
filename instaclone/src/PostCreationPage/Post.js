@@ -1,5 +1,9 @@
 import React from "react";
-import camera from "../images/camera.png";
+import icon from '../images/icon.png';
+import Camera from '../images/Camera.png';
+// import Form from 'react-bootstrap/Form';
+// import Button from "";
+
 
 
 export default function Post(){
