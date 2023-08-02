@@ -1,0 +1,10 @@
+.bg-body-tertiary{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
